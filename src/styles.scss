@@ -1,0 +1,101 @@
+/* You can add global styles to this file, and also import other style files */
+@import "./styles/configuration.scss";
+@import "./styles/fonts";
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: rgb(237, 237, 237) !important;
+    margin: 0 auto;
+}
+
+.flex-basis-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(239, 239, 245);
+    width: 100% !important;
+
+    .pre-header {
+        // width: 100%;
+        // height: 50px !important;
+        // margin-bottom: 10px;
+        // padding-left: 15px;
+        // background-color: $accelya-blue;
+        // display: flex;
+        // align-items: center;
+        // font-size: $font-size-base-xl !important;
+        // color: white;
+        // font-size: 22px;
+        // font-weight: normal;
+
+        width: 100%;
+        background: var(--txt-bg-white, #fff);
+        box-shadow: 0px 4px 6px -1px rgba(52, 100, 188, 0.08);
+        display: flex;
+        height: 70px;
+        padding: 16px 32px;
+        align-items: center;
+        gap: 64px;
+        align-self: stretch;
+    }
+    .flex-main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100% !important;
+
+        .header {
+            //z-index: 100;
+            width: 100%;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            height: 60px;
+
+            &.navy-background {
+                background-color: $accelya-blue;
+                color: $brand-off-white-lt;
+            }
+        }
+        .column-spec {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            background-color: rgb(247, 245, 245);
+        }
+        .content-body {
+            display: flex;
+            width: 1440px;
+            padding: 64px 120px;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: flex-start;
+            background-color: white;
+            gap: 64px;
+            .booking-form {
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .booking-image {
+                    margin-left: auto;
+                }
+            }
+        }
+        .footer {
+            display: flex;
+            width: 1440px;
+            padding: 26px 24px;
+            justify-content: space-between;
+            align-items: center;
+            background: var(--main-bc-2, #012169);
+            bottom: 0;
+            // display: flex;
+            // width: 1440px;
+            // padding: 16px 24px;
+            // justify-content: space-between;
+            // align-items: center;
+        }
+    }
+}

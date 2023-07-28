@@ -1,0 +1,30 @@
+<div class="card-container pt-3">
+  <!-- <div class="cards-header ms-auto">
+    <div class="price-boxes">Basic</div>
+    <div class="price-boxes">Economy</div>
+    <div class="price-boxes">Basic</div>
+    <div class="price-boxes">Basic</div>
+  </div> -->
+  <div *ngFor="let item of flightList">
+    <div class="card-wide py-1 px-2">
+      <div></div>
+      <div class="main-flight-spec">
+        <div class="od-boxes">
+          <div class="date-display">{{item.arrival}}</div>
+          <div>{{item.origin}}</div>
+        </div>
+        <div class="od-boxes"></div>
+        <div class="od-boxes">
+          <div class="date-display">{{item.departure}}</div>
+          <div>{{item.destination}}</div>
+        </div>
+      </div>
+      <div class="main-price-spec">
+        <a class="price-boxes">330.00€</a>
+        <a class="price-boxes">1330.00€</a>
+        <a class="price-boxes">2330.00€</a>
+        <a class="price-boxes">3330.00€</a>
+      </div>
+    </div>
+  </div>
+</div>

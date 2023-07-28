@@ -1,0 +1,32 @@
+.booking-process {
+    display: flex;
+    height: 80px;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    .child-width {
+        width: 33%;
+        .num-circle {
+            background-color: #012169;
+            border-radius: 50%;
+            // width: 34px;
+            // height: 24px;
+            padding: 2px 11px;
+            margin-right: 10px;
+            color: white;
+            text-align: center;
+        }
+        .path-link {
+            width: 100%;
+            color: #012169;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 600;
+            border-bottom: 2px solid gray;
+            &.active {
+                border-color: #012169;
+            }
+        }
+    }
+}

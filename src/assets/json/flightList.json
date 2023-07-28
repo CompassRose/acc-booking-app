@@ -1,0 +1,1345 @@
+[
+  {
+    "index": 0,
+    "airline": "JetStar",
+    "origin": " Brule, Kentucky",
+    "destination": " Chalfant, Northern Mariana Islands",
+    "arrival": "2020-10-21: 03:7",
+    "departure": "2021-03-12: 07:13",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "510,800,1138,2057"
+    ]
+  },
+  {
+    "index": 1,
+    "airline": "JetStar",
+    "origin": " Fairhaven, Washington",
+    "destination": " Bowden, Connecticut",
+    "arrival": "2018-01-01: 08:35",
+    "departure": "2014-08-26: 07:48",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "575,819,1217,2525"
+    ]
+  },
+  {
+    "index": 2,
+    "airline": "Iberia",
+    "origin": " Whitmer, North Dakota",
+    "destination": " Nipinnawasee, Massachusetts",
+    "arrival": "2018-01-05: 01:59",
+    "departure": "2019-05-31: 12:53",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "435,813,1053,1634"
+    ]
+  },
+  {
+    "index": 3,
+    "airline": "RyanAir",
+    "origin": " Caberfae, Utah",
+    "destination": " Wintersburg, Arizona",
+    "arrival": "2022-09-22: 05:37",
+    "departure": "2014-10-03: 10:3",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "316,806,925,2054"
+    ]
+  },
+  {
+    "index": 4,
+    "airline": "JetStar",
+    "origin": " Sena, Palau",
+    "destination": " Sardis, New Jersey",
+    "arrival": "2021-07-17: 12:42",
+    "departure": "2020-11-14: 07:59",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "366,779,1070,1743"
+    ]
+  },
+  {
+    "index": 5,
+    "airline": "Iberia",
+    "origin": " Ivanhoe, Pennsylvania",
+    "destination": " Hondah, Alaska",
+    "arrival": "2019-11-28: 03:49",
+    "departure": "2022-11-21: 03:29",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "493,764,1042,1428"
+    ]
+  },
+  {
+    "index": 6,
+    "airline": "JetStar",
+    "origin": " Rodman, Minnesota",
+    "destination": " Statenville, Rhode Island",
+    "arrival": "2019-03-31: 06:14",
+    "departure": "2022-10-08: 09:38",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "334,735,928,2219"
+    ]
+  },
+  {
+    "index": 7,
+    "airline": "Iberia",
+    "origin": " Grantville, Michigan",
+    "destination": " Roeville, Mississippi",
+    "arrival": "2018-12-28: 11:21",
+    "departure": "2014-04-15: 08:6",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "621,770,955,1483"
+    ]
+  },
+  {
+    "index": 8,
+    "airline": "Vueling",
+    "origin": " Croom, Tennessee",
+    "destination": " Bentley, Delaware",
+    "arrival": "2023-02-04: 08:7",
+    "departure": "2014-04-18: 04:18",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "419,765,1057,1462"
+    ]
+  },
+  {
+    "index": 9,
+    "airline": "RyanAir",
+    "origin": " Snelling, Florida",
+    "destination": " Temperanceville, Oklahoma",
+    "arrival": "2023-04-27: 05:39",
+    "departure": "2020-12-05: 06:16",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "365,835,1072,2390"
+    ]
+  },
+  {
+    "index": 10,
+    "airline": "Vueling",
+    "origin": " Columbus, New Mexico",
+    "destination": " Elbert, Indiana",
+    "arrival": "2016-12-21: 07:35",
+    "departure": "2017-06-07: 11:24",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "477,780,1072,1675"
+    ]
+  },
+  {
+    "index": 11,
+    "airline": "EasyJet",
+    "origin": " Oley, Virginia",
+    "destination": " Marenisco, Georgia",
+    "arrival": "2020-04-04: 10:44",
+    "departure": "2014-03-24: 11:22",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "405,778,989,1603"
+    ]
+  },
+  {
+    "index": 12,
+    "airline": "Vueling",
+    "origin": " Windsor, Hawaii",
+    "destination": " Blende, Alabama",
+    "arrival": "2020-09-10: 07:23",
+    "departure": "2020-07-27: 01:13",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "334,764,1001,1971"
+    ]
+  },
+  {
+    "index": 13,
+    "airline": "RyanAir",
+    "origin": " Jugtown, New York",
+    "destination": " Efland, Colorado",
+    "arrival": "2014-03-25: 10:26",
+    "departure": "2020-12-30: 03:42",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "487,821,1221,1708"
+    ]
+  },
+  {
+    "index": 14,
+    "airline": "EasyJet",
+    "origin": " Beechmont, Vermont",
+    "destination": " Basye, Guam",
+    "arrival": "2019-03-29: 09:25",
+    "departure": "2021-10-02: 09:13",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "520,786,1236,1535"
+    ]
+  },
+  {
+    "index": 15,
+    "airline": "JetStar",
+    "origin": " Shaft, South Carolina",
+    "destination": " Blackgum, Marshall Islands",
+    "arrival": "2019-01-21: 07:19",
+    "departure": "2016-11-13: 10:8",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "469,755,1213,2423"
+    ]
+  },
+  {
+    "index": 16,
+    "airline": "RyanAir",
+    "origin": " Orason, Oregon",
+    "destination": " Fairfield, Ohio",
+    "arrival": "2014-02-09: 01:29",
+    "departure": "2014-01-07: 12:35",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "315,753,973,2446"
+    ]
+  },
+  {
+    "index": 17,
+    "airline": "Iberia",
+    "origin": " Monument, Idaho",
+    "destination": " Jessie, New Hampshire",
+    "arrival": "2017-11-15: 03:16",
+    "departure": "2017-08-29: 04:32",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "583,809,1123,2459"
+    ]
+  },
+  {
+    "index": 18,
+    "airline": "JetStar",
+    "origin": " Weogufka, Louisiana",
+    "destination": " Farmers, American Samoa",
+    "arrival": "2018-01-05: 10:43",
+    "departure": "2014-08-23: 08:15",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "369,832,1044,2618"
+    ]
+  },
+  {
+    "index": 19,
+    "airline": "EasyJet",
+    "origin": " Leroy, Arkansas",
+    "destination": " Dunbar, Nevada",
+    "arrival": "2017-07-11: 02:35",
+    "departure": "2019-11-14: 12:42",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "391,805,1188,2090"
+    ]
+  },
+  {
+    "index": 20,
+    "airline": "EasyJet",
+    "origin": " Bendon, Montana",
+    "destination": " Fivepointville, Nebraska",
+    "arrival": "2021-12-11: 05:17",
+    "departure": "2018-10-02: 07:17",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "581,760,1183,1506"
+    ]
+  },
+  {
+    "index": 21,
+    "airline": "Vueling",
+    "origin": " Spokane, Wisconsin",
+    "destination": " Cutter, Kansas",
+    "arrival": "2022-03-16: 05:54",
+    "departure": "2018-04-18: 08:8",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "420,776,1109,2198"
+    ]
+  },
+  {
+    "index": 22,
+    "airline": "EasyJet",
+    "origin": " Summerfield, Federated States Of Micronesia",
+    "destination": " Dixonville, West Virginia",
+    "arrival": "2017-07-25: 09:54",
+    "departure": "2021-04-17: 04:15",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "609,753,1130,1668"
+    ]
+  },
+  {
+    "index": 23,
+    "airline": "JetStar",
+    "origin": " Munjor, North Carolina",
+    "destination": " Nicut, Maryland",
+    "arrival": "2017-04-17: 10:43",
+    "departure": "2014-07-25: 04:25",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "478,728,1117,1447"
+    ]
+  },
+  {
+    "index": 24,
+    "airline": "EasyJet",
+    "origin": " Harrodsburg, Iowa",
+    "destination": " Byrnedale, Texas",
+    "arrival": "2017-12-16: 02:55",
+    "departure": "2015-04-14: 06:21",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "567,835,945,1654"
+    ]
+  },
+  {
+    "index": 25,
+    "airline": "JetStar",
+    "origin": " Forestburg, Missouri",
+    "destination": " Keyport, Illinois",
+    "arrival": "2020-11-15: 01:21",
+    "departure": "2016-04-22: 03:4",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "463,745,1058,2344"
+    ]
+  },
+  {
+    "index": 26,
+    "airline": "Vueling",
+    "origin": " Edinburg, California",
+    "destination": " Hannasville, Maine",
+    "arrival": "2019-07-24: 02:27",
+    "departure": "2014-10-04: 10:52",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "384,826,1045,1982"
+    ]
+  },
+  {
+    "index": 27,
+    "airline": "Iberia",
+    "origin": " Lydia, Puerto Rico",
+    "destination": " Dennard, Wyoming",
+    "arrival": "2017-06-16: 11:42",
+    "departure": "2015-06-30: 08:5",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "617,787,1035,2631"
+    ]
+  },
+  {
+    "index": 28,
+    "airline": "RyanAir",
+    "origin": " Rodanthe, Virgin Islands",
+    "destination": " Sidman, South Dakota",
+    "arrival": "2018-04-12: 10:10",
+    "departure": "2016-05-09: 05:55",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "293,738,1228,2044"
+    ]
+  },
+  {
+    "index": 29,
+    "airline": "JetStar",
+    "origin": " Carrsville, Kentucky",
+    "destination": " Interlochen, Northern Mariana Islands",
+    "arrival": "2016-10-17: 03:31",
+    "departure": "2019-09-19: 06:37",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "441,834,1164,1597"
+    ]
+  },
+  {
+    "index": 30,
+    "airline": "EasyJet",
+    "origin": " Wawona, Washington",
+    "destination": " Dragoon, Connecticut",
+    "arrival": "2022-07-26: 09:51",
+    "departure": "2022-02-02: 10:22",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "563,774,1233,1949"
+    ]
+  },
+  {
+    "index": 31,
+    "airline": "JetStar",
+    "origin": " Goldfield, North Dakota",
+    "destination": " Wolcott, Massachusetts",
+    "arrival": "2017-09-07: 11:41",
+    "departure": "2023-05-09: 08:25",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "442,840,1195,2285"
+    ]
+  },
+  {
+    "index": 32,
+    "airline": "Iberia",
+    "origin": " Elfrida, Utah",
+    "destination": " Austinburg, Arizona",
+    "arrival": "2016-09-14: 12:20",
+    "departure": "2018-08-24: 09:21",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "511,810,1172,2085"
+    ]
+  },
+  {
+    "index": 33,
+    "airline": "Vueling",
+    "origin": " Shasta, Palau",
+    "destination": " Echo, New Jersey",
+    "arrival": "2018-11-24: 01:17",
+    "departure": "2020-12-19: 09:10",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "463,731,1114,2468"
+    ]
+  },
+  {
+    "index": 34,
+    "airline": "JetStar",
+    "origin": " Kennedyville, Pennsylvania",
+    "destination": " Ogema, Alaska",
+    "arrival": "2022-07-19: 04:33",
+    "departure": "2021-03-09: 02:5",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "270,734,1124,2231"
+    ]
+  },
+  {
+    "index": 35,
+    "airline": "Iberia",
+    "origin": " Bradenville, Minnesota",
+    "destination": " Madaket, Rhode Island",
+    "arrival": "2015-05-29: 09:54",
+    "departure": "2021-05-06: 06:8",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "256,792,1002,2485"
+    ]
+  },
+  {
+    "index": 36,
+    "airline": "EasyJet",
+    "origin": " Cecilia, Michigan",
+    "destination": " Leland, Mississippi",
+    "arrival": "2017-09-12: 01:22",
+    "departure": "2019-02-20: 10:59",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "315,775,1040,2450"
+    ]
+  },
+  {
+    "index": 37,
+    "airline": "Vueling",
+    "origin": " Oberlin, Tennessee",
+    "destination": " Germanton, Delaware",
+    "arrival": "2019-08-20: 10:0",
+    "departure": "2020-04-19: 07:7",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "489,727,1095,1600"
+    ]
+  },
+  {
+    "index": 38,
+    "airline": "EasyJet",
+    "origin": " Springville, Florida",
+    "destination": " Kraemer, Oklahoma",
+    "arrival": "2020-07-26: 06:22",
+    "departure": "2016-12-10: 02:26",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "459,819,1170,1763"
+    ]
+  },
+  {
+    "index": 39,
+    "airline": "EasyJet",
+    "origin": " Heil, New Mexico",
+    "destination": " Sperryville, Indiana",
+    "arrival": "2017-01-08: 06:33",
+    "departure": "2022-08-17: 07:28",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "294,774,997,2612"
+    ]
+  },
+  {
+    "index": 40,
+    "airline": "Iberia",
+    "origin": " Bridgetown, Virginia",
+    "destination": " Mathews, Georgia",
+    "arrival": "2022-03-31: 07:6",
+    "departure": "2023-01-03: 04:30",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "491,834,1076,1590"
+    ]
+  },
+  {
+    "index": 41,
+    "airline": "RyanAir",
+    "origin": " Chemung, Hawaii",
+    "destination": " Elliston, Alabama",
+    "arrival": "2022-04-14: 07:3",
+    "departure": "2022-12-22: 11:5",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "297,756,1141,2411"
+    ]
+  },
+  {
+    "index": 42,
+    "airline": "EasyJet",
+    "origin": " Moquino, New York",
+    "destination": " Dodge, Colorado",
+    "arrival": "2014-10-03: 08:50",
+    "departure": "2020-10-19: 02:59",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "460,747,963,1718"
+    ]
+  },
+  {
+    "index": 43,
+    "airline": "JetStar",
+    "origin": " Websterville, Vermont",
+    "destination": " Cuylerville, Guam",
+    "arrival": "2020-06-20: 09:53",
+    "departure": "2023-03-09: 07:56",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "598,771,1007,2007"
+    ]
+  },
+  {
+    "index": 44,
+    "airline": "Vueling",
+    "origin": " Leyner, South Carolina",
+    "destination": " Greensburg, Marshall Islands",
+    "arrival": "2015-02-21: 02:20",
+    "departure": "2017-02-22: 04:8",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "290,790,1189,1624"
+    ]
+  },
+  {
+    "index": 45,
+    "airline": "Vueling",
+    "origin": " Forbestown, Oregon",
+    "destination": " Berwind, Ohio",
+    "arrival": "2014-02-05: 03:14",
+    "departure": "2020-03-10: 04:7",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "463,745,1046,1759"
+    ]
+  },
+  {
+    "index": 46,
+    "airline": "Iberia",
+    "origin": " Fairview, Idaho",
+    "destination": " Urbana, New Hampshire",
+    "arrival": "2015-01-24: 12:24",
+    "departure": "2023-04-13: 11:23",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "514,810,1179,1593"
+    ]
+  },
+  {
+    "index": 47,
+    "airline": "JetStar",
+    "origin": " Stockwell, Louisiana",
+    "destination": " Sugartown, American Samoa",
+    "arrival": "2021-09-15: 06:59",
+    "departure": "2015-09-10: 08:7",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "285,746,933,2235"
+    ]
+  },
+  {
+    "index": 48,
+    "airline": "RyanAir",
+    "origin": " Bayview, Arkansas",
+    "destination": " Clayville, Nevada",
+    "arrival": "2019-12-02: 03:40",
+    "departure": "2016-04-11: 06:18",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "481,783,1207,1975"
+    ]
+  },
+  {
+    "index": 49,
+    "airline": "RyanAir",
+    "origin": " Morriston, Montana",
+    "destination": " Lodoga, Nebraska",
+    "arrival": "2015-11-30: 06:32",
+    "departure": "2021-07-11: 03:12",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "223,740,1108,2592"
+    ]
+  },
+  {
+    "index": 50,
+    "airline": "JetStar",
+    "origin": " Catharine, Wisconsin",
+    "destination": " Bergoo, Kansas",
+    "arrival": "2018-02-22: 07:14",
+    "departure": "2020-07-01: 03:6",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "532,797,1208,2189"
+    ]
+  },
+  {
+    "index": 51,
+    "airline": "EasyJet",
+    "origin": " Waiohinu, Federated States Of Micronesia",
+    "destination": " Sanborn, West Virginia",
+    "arrival": "2020-05-05: 09:38",
+    "departure": "2021-09-22: 10:16",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "394,831,1000,2633"
+    ]
+  },
+  {
+    "index": 52,
+    "airline": "RyanAir",
+    "origin": " Biehle, North Carolina",
+    "destination": " Herbster, Maryland",
+    "arrival": "2019-12-29: 05:10",
+    "departure": "2022-04-11: 06:15",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "357,839,1019,2184"
+    ]
+  },
+  {
+    "index": 53,
+    "airline": "Vueling",
+    "origin": " Dante, Iowa",
+    "destination": " Warren, Texas",
+    "arrival": "2017-06-26: 10:17",
+    "departure": "2022-07-04: 05:32",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "349,757,1219,1938"
+    ]
+  },
+  {
+    "index": 54,
+    "airline": "Vueling",
+    "origin": " Newkirk, Missouri",
+    "destination": " Smeltertown, Illinois",
+    "arrival": "2020-06-04: 10:59",
+    "departure": "2015-04-26: 12:13",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "574,750,1200,1424"
+    ]
+  },
+  {
+    "index": 55,
+    "airline": "Vueling",
+    "origin": " Tilleda, California",
+    "destination": " Lopezo, Maine",
+    "arrival": "2019-11-28: 02:10",
+    "departure": "2016-08-28: 07:12",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "554,799,1034,2520"
+    ]
+  },
+  {
+    "index": 56,
+    "airline": "JetStar",
+    "origin": " Steinhatchee, Puerto Rico",
+    "destination": " Biddle, Wyoming",
+    "arrival": "2017-06-22: 09:14",
+    "departure": "2019-09-25: 12:58",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "377,763,939,1616"
+    ]
+  },
+  {
+    "index": 57,
+    "airline": "RyanAir",
+    "origin": " Westmoreland, Virgin Islands",
+    "destination": " Brambleton, South Dakota",
+    "arrival": "2021-04-11: 03:0",
+    "departure": "2015-08-27: 04:18",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "507,784,1014,2570"
+    ]
+  },
+  {
+    "index": 58,
+    "airline": "EasyJet",
+    "origin": " Blandburg, Kentucky",
+    "destination": " Whipholt, Northern Mariana Islands",
+    "arrival": "2019-08-06: 11:28",
+    "departure": "2020-05-21: 05:39",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "419,774,927,2464"
+    ]
+  },
+  {
+    "index": 59,
+    "airline": "RyanAir",
+    "origin": " Caroleen, Washington",
+    "destination": " Yonah, Connecticut",
+    "arrival": "2015-04-14: 08:17",
+    "departure": "2017-02-23: 09:52",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "612,822,1001,1965"
+    ]
+  },
+  {
+    "index": 60,
+    "airline": "EasyJet",
+    "origin": " Gouglersville, North Dakota",
+    "destination": " Healy, Massachusetts",
+    "arrival": "2021-09-28: 01:33",
+    "departure": "2017-08-01: 11:37",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "515,826,952,2549"
+    ]
+  },
+  {
+    "index": 61,
+    "airline": "JetStar",
+    "origin": " Ferney, Utah",
+    "destination": " Riviera, Arizona",
+    "arrival": "2022-08-19: 08:15",
+    "departure": "2015-01-15: 01:31",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "567,771,1134,2443"
+    ]
+  },
+  {
+    "index": 62,
+    "airline": "Vueling",
+    "origin": " Coalmont, Palau",
+    "destination": " Nescatunga, New Jersey",
+    "arrival": "2016-12-10: 06:16",
+    "departure": "2021-02-21: 06:46",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "491,834,1070,2190"
+    ]
+  },
+  {
+    "index": 63,
+    "airline": "RyanAir",
+    "origin": " Torboy, Pennsylvania",
+    "destination": " Ellerslie, Alaska",
+    "arrival": "2015-06-23: 08:56",
+    "departure": "2015-11-05: 02:23",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "266,825,1103,1433"
+    ]
+  },
+  {
+    "index": 64,
+    "airline": "JetStar",
+    "origin": " Mansfield, Minnesota",
+    "destination": " Kanauga, Rhode Island",
+    "arrival": "2016-05-09: 11:17",
+    "departure": "2019-08-13: 04:55",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "441,794,1233,1434"
+    ]
+  },
+  {
+    "index": 65,
+    "airline": "RyanAir",
+    "origin": " Alden, Michigan",
+    "destination": " Crumpler, Mississippi",
+    "arrival": "2014-07-23: 02:18",
+    "departure": "2018-04-07: 05:25",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "325,825,1066,1989"
+    ]
+  },
+  {
+    "index": 66,
+    "airline": "Iberia",
+    "origin": " Ypsilanti, Tennessee",
+    "destination": " Dawn, Delaware",
+    "arrival": "2021-10-24: 08:15",
+    "departure": "2021-01-06: 02:42",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "538,813,1181,2186"
+    ]
+  },
+  {
+    "index": 67,
+    "airline": "Iberia",
+    "origin": " Nettie, Florida",
+    "destination": " Vincent, Oklahoma",
+    "arrival": "2019-01-19: 02:16",
+    "departure": "2022-10-08: 07:26",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "331,838,1017,1974"
+    ]
+  },
+  {
+    "index": 68,
+    "airline": "JetStar",
+    "origin": " Waumandee, New Mexico",
+    "destination": " Weeksville, Indiana",
+    "arrival": "2016-09-25: 05:34",
+    "departure": "2019-07-03: 01:23",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "482,732,958,2442"
+    ]
+  },
+  {
+    "index": 69,
+    "airline": "JetStar",
+    "origin": " Newry, Virginia",
+    "destination": " Staples, Georgia",
+    "arrival": "2015-11-24: 03:39",
+    "departure": "2021-02-08: 02:0",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "576,738,1019,1626"
+    ]
+  },
+  {
+    "index": 70,
+    "airline": "RyanAir",
+    "origin": " Sparkill, Hawaii",
+    "destination": " Lavalette, Alabama",
+    "arrival": "2015-07-13: 04:47",
+    "departure": "2015-03-15: 06:19",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "294,828,1136,1898"
+    ]
+  },
+  {
+    "index": 71,
+    "airline": "EasyJet",
+    "origin": " Rutherford, New York",
+    "destination": " Golconda, Colorado",
+    "arrival": "2020-10-19: 01:5",
+    "departure": "2015-12-21: 08:20",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "583,742,958,2154"
+    ]
+  },
+  {
+    "index": 72,
+    "airline": "EasyJet",
+    "origin": " Westphalia, Vermont",
+    "destination": " Zarephath, Guam",
+    "arrival": "2017-12-06: 01:51",
+    "departure": "2020-06-06: 03:31",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "464,840,1044,1738"
+    ]
+  },
+  {
+    "index": 73,
+    "airline": "JetStar",
+    "origin": " Salunga, South Carolina",
+    "destination": " Walker, Marshall Islands",
+    "arrival": "2020-04-12: 06:44",
+    "departure": "2015-04-06: 12:24",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "438,741,1133,2195"
+    ]
+  },
+  {
+    "index": 74,
+    "airline": "RyanAir",
+    "origin": " Mapletown, Oregon",
+    "destination": " Chicopee, Ohio",
+    "arrival": "2020-08-31: 11:38",
+    "departure": "2020-07-25: 08:51",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "460,737,1145,1601"
+    ]
+  },
+  {
+    "index": 75,
+    "airline": "Vueling",
+    "origin": " Graniteville, Idaho",
+    "destination": " Stonybrook, New Hampshire",
+    "arrival": "2014-09-17: 09:52",
+    "departure": "2015-02-11: 09:2",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "307,793,1021,2276"
+    ]
+  },
+  {
+    "index": 76,
+    "airline": "EasyJet",
+    "origin": " Bellamy, Louisiana",
+    "destination": " Topaz, American Samoa",
+    "arrival": "2016-09-17: 05:57",
+    "departure": "2015-05-28: 02:46",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "526,748,1164,1929"
+    ]
+  },
+  {
+    "index": 77,
+    "airline": "RyanAir",
+    "origin": " Craig, Arkansas",
+    "destination": " Lutsen, Nevada",
+    "arrival": "2022-06-25: 03:15",
+    "departure": "2016-12-11: 02:35",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "486,737,977,2479"
+    ]
+  },
+  {
+    "index": 78,
+    "airline": "EasyJet",
+    "origin": " Greenwich, Montana",
+    "destination": " Thornport, Nebraska",
+    "arrival": "2015-07-03: 02:22",
+    "departure": "2019-07-14: 04:17",
+    "Cabins": [
+      "Basic",
+      "Economy",
+      "Comfort",
+      "Business"
+    ],
+    "fare": [
+      "341,734,1160,1538"
+    ]
+  }
+]

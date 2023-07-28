@@ -1,0 +1,14 @@
+[
+  '{{repeat(5, 127)}}',
+  {
+    index: '{{index()}}',
+    airline: '{{random("RyanAir", "EasyJet", "Vueling","Iberia","JetStar")}}',
+    origin: ' {{city()}}, {{state()}}',
+    destination:' {{city()}}, {{state()}}',
+	arrival: '{{date(new Date(2014, 0, 1), new Date(), "YYYY-MM-dd: hh:m")}}',
+    departure: '{{date(new Date(2014, 0, 1), new Date(), "YYYY-MM-dd: hh:m")}}',
+    Cabins: ['Basic','Economy','Comfort','Business'],
+        fare: ['{{integer(220, 640)}},{{integer(720, 840)}},{{integer(920, 1240)}},{{integer(1420, 2640)}}']
+    
+  }
+]

@@ -1,0 +1,53 @@
+<div>
+  <div class="container-fluid">
+    <div class="flex-basis-main">
+      <div class="d-flex align-items-center me-auto pre-header">
+        <div class="logo-flight-nfo d-flex ml-5">
+          <div>
+            <img
+              class="accelya-text-img me-4"
+              style="width: 150px; height: 45px;"
+              src="../assets/images/accelyaTextLogo.jpg"
+            />
+          </div>
+        </div>
+
+        <div class="ps-3">AirRm Flags Dashboard</div>
+      </div>
+      <div class="booking-process px-3">
+        <div class="child-width d-flex align-items-center">
+          <span class="num-circle">1</span>
+          <a
+            class="path-link"
+            routerLink="/flight-options"
+            routerLinkActive="active"
+            ariaCurrentWhenActive="page"
+          >
+            Flight Selection</a
+          >
+        </div>
+        <div class="child-width d-flex align-items-center">
+          <span class="num-circle">2</span>
+          <a
+            class="path-link"
+            routerLink="/flight-details"
+            routerLinkActive="active"
+            ariaCurrentWhenActive="page"
+            ><span>Passenger Details</span></a
+          >
+        </div>
+        <div class="child-width d-flex align-items-center">
+          <span class="num-circle">3</span>
+          <a
+            class="path-link"
+            routerLink="/flight-details"
+            routerLinkActive="active"
+            ariaCurrentWhenActive="page"
+            >3 Confirmation</a
+          >
+        </div>
+      </div>
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

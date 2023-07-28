@@ -1,0 +1,91 @@
+.card-container {
+    background-color: rgb(223, 229, 240);
+    width: 1440px !important;
+
+    // .cards-header {
+    //     align-items: center;
+    //     display: flex;
+    //     justify-content: flex-end;
+    //     width: 50% !important;
+    //     height: 100%;
+
+    //     .price-boxes {
+    //         background-color: rgb(29, 19, 161);
+    //         text-decoration: none;
+    //         text-align: center;
+    //         width: 24%;
+    //         height: 100%;
+    //         font-size: 20px;
+    //         font-weight: 600;
+    //         color: white;
+    //         border: 1px solid #001871;
+    //         border-radius: 4px;
+    //         margin: 3px;
+    //         &:hover {
+    //             border: 1px solid #8098f0;
+    //             background-color: rgb(213, 239, 255);
+    //             color: #001871;
+    //         }
+    //     }
+    // }
+
+    .card-wide {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(241, 241, 241);
+        width: 1320px;
+        height: 100px;
+        box-shadow: 0px 1px 3px rgb(126, 126, 126);
+        border-radius: 5px;
+        margin-bottom: 10px;
+        .main-flight-spec {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border: 1px solid #0018718f;
+            width: 50% !important;
+            height: 100%;
+            .od-boxes {
+                background-color: white;
+                display: flex;
+                flex-direction: column;
+                //align-items: center;
+                justify-content: center;
+                width: 30%;
+                font-size: 14px;
+                font-weight: 600;
+                text-align: left;
+                height: 100%;
+                .date-display {
+                    font-size: 24px;
+                }
+            }
+        }
+        .main-price-spec {
+            width: 50% !important;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .price-boxes {
+                background-color: rgb(29, 19, 161);
+                text-decoration: none;
+                text-align: center;
+                width: 24%;
+                height: 100%;
+                font-size: 20px;
+                font-weight: 600;
+                color: white;
+                border: 1px solid #001871;
+                border-radius: 4px;
+                margin: 3px;
+                &:hover {
+                    border: 1px solid #8098f0;
+                    background-color: rgb(213, 239, 255);
+                    color: #001871;
+                }
+            }
+        }
+    }
+}
